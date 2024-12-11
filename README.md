@@ -23,43 +23,72 @@ This is my repository to showcase skills, share project  and track my progress i
 # Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-**Clean and analyze FIFA data**
+##**Clean and analyze FIFA data**
+
 **Code:** 
+
 **Description**: The project includes loading data, cleaning and processing data, performing exploratory data analysis (EDA), analyzing the correlation between transfer value (Value) and POT factors, OVA, Wage, Age. Skills: data cleaning, data analysis, correlation matrices, data visualization.
+
 **Skill:** data cleaning, data analysis, correlation matrices, data visualization
+
 **Technology:** Python
+
 **Result:** Determine factors affecting transfer value such as age, Overall, POT
 
-**Analyze bicycle sales data**
+
+##**Analyze bicycle sales data**
+
 **Code:**
+
 **Goal:** Find insights from past sales data to evaluate performance
+
 **Description:** The project includes cleaning and pre-processing data, performing exploratory data analysis (EDA), visualizing and designing dashboards on Power BI to provide useful information and identify factors affect revenue. 
+
 **Skill:** data cleaning, data analysis, data visualization
+
 **Technology:** Python, Power BI
+
 **Result:** Designed dashboard showing revenue affected by factors, revenue trends, moving average of revenue
 
-**Machine learning application to predict robusta coffee prices**
+##**Machine learning application to predict robusta coffee prices**
+
 **Code:** 
+
 **Goal:** Forecast the trend of coffee prices based on weather factors, exchange rates, and oil prices
 **Description:** The dataset is collected from many different sources, including: weather information in Gia Lai, oil prices, USD/VND exchange rate, robusta coffee price. The project focuses on collecting, cleaning, standardizing data and applying machine learning algorithms to price forecasting. 
+
 **Skills:** data cleaning, data analysis, data visualization, machine learning
+
 **Technology:** Python, machine learning
+
 **Result:** Weather factors, oil prices, and exchange rates affect robusta coffee prices. Built Random Forest, LSTM, SVR machine learning models to predict future price and coffee trends.
 
-**ARIMA/SARIMA model in stock price forecasting**
+##**ARIMA/SARIMA model in stock price forecasting**
+
 **Code:**
+
 **Goal:** Forecast stock prices of companies in the construction industry from price data in the last 5 years
+
 **Description:** The data set is collected from the stock exchange, including stock prices of 5 companies in the construction industry group: HT1, HBC, ACC, VCG, CVT in the most recent year. The project focuses on applying the ARIMA and SARIMA time series data models to price forecasting.
+
 **Skills:** data cleaning, data analysis, data visualization, time series prediction
+
 **Technology:** python, tableu
+
 **Result:** Successfully built the ARIMA model to forecast future stock price trends.
 
-**Vehicle clustering and routing using the K-Means algorithm**
+##**Vehicle clustering and routing using the K-Means algorithm**
+
 **Code:**
+
 **Goal**: Build a route for vehicles
+
 **Description:** Cargo trucks move one by one from a single warehouse to pickup points and back. Each vehicle has a specified maximum capacity and all vehicles have equal capacities. Vehicles only pass through each pick-up point once. The collected data set includes the location of pickup points and vehicle capacity. The project focuses on applying the K-Means algorithm and the greedy algorithm to build a route for each vehicle so that the number of vehicles is minimum and the distance traveled is minimum while still ensuring vehicle capacity.
+
 **Skills:** data cleaning, data analysis, data visualization, machine learning
+
 **Technology:** Python
+
 **Result:** Cluster customer points and determine paths within each cluster
 
 # Education
