@@ -8,24 +8,24 @@ This is my repository to showcase skills, share project  and track my progress i
 
 # Table of Contents
 
-- About
-- Portfolio Project
+- [About](#about)
+- [Portfolio Project](#portfolio-projects)
   
-  - Clean and analyze FIFA data
-  - Analyze bicycle sales data
-  - Machine learning application to predict robusta coffee prices
-  - ARIMA/SARIMA model in stock price forecasting
-  - Vehicle clustering and routing using the K-Means algorithm
+  - [Clean and analyze FIFA data](#clean-and-analyze-fifa-data)
+  - [Analyze bicycle sales data](#analyze-bicycle-sales-data)
+  - [Machine learning application to predict robusta coffee prices](#machine-learning-application-to-predict-robusta-coffee-prices)
+  - [ARIMA/SARIMA model in stock price forecasting](#arima/sarima-model-in-stock-price-forecasting)
+  - [Vehicle clustering and routing using the K-Means algorithm](#vehicle-clustering-and-routing-using-the-kmeans-algorithm)
 
-- Education
-- Contact
+- [Education](#education)
+- [Contact](#contact)
 
 # Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ## **Clean and analyze FIFA data**
 
-**Code:** 
+**Code:** https://github.com/laborioussloth/Portfolio/tree/main/FIFA
 
 **Description**: The project includes loading data, cleaning and processing data, performing exploratory data analysis (EDA), analyzing the correlation between transfer value (Value) and POT factors, OVA, Wage, Age. Skills: data cleaning, data analysis, correlation matrices, data visualization.
 
@@ -38,7 +38,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## **Analyze bicycle sales data**
 
-**Code:**
+**Code:** https://github.com/laborioussloth/Portfolio/tree/main/London_Bike
 
 **Goal:** Find insights from past sales data to evaluate performance
 
@@ -52,7 +52,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## **Machine learning application to predict robusta coffee prices**
 
-**Code:** 
+**Code:** https://github.com/laborioussloth/Portfolio/tree/main/Predict%20price
 
 **Goal:** Forecast the trend of coffee prices based on weather factors, exchange rates, and oil prices
 
@@ -66,7 +66,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## **ARIMA/SARIMA model in stock price forecasting**
 
-**Code:**
+**Code:** https://github.com/laborioussloth/Portfolio/tree/main/ARIMA
 
 **Goal:** Forecast stock prices of companies in the construction industry from price data in the last 5 years
 
@@ -80,7 +80,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## **Vehicle clustering and routing using the K-Means algorithm**
 
-**Code:**
+**Code:** https://github.com/laborioussloth/Portfolio/tree/main/Route
 
 **Goal**: Build a route for vehicles
 
