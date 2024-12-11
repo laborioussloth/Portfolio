@@ -36,7 +36,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Result:** Determine factors affecting transfer value such as age, Overall, POT
 
 
-##**Analyze bicycle sales data**
+## **Analyze bicycle sales data**
 
 **Code:**
 
@@ -50,11 +50,12 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Result:** Designed dashboard showing revenue affected by factors, revenue trends, moving average of revenue
 
-##**Machine learning application to predict robusta coffee prices**
+## **Machine learning application to predict robusta coffee prices**
 
 **Code:** 
 
 **Goal:** Forecast the trend of coffee prices based on weather factors, exchange rates, and oil prices
+
 **Description:** The dataset is collected from many different sources, including: weather information in Gia Lai, oil prices, USD/VND exchange rate, robusta coffee price. The project focuses on collecting, cleaning, standardizing data and applying machine learning algorithms to price forecasting. 
 
 **Skills:** data cleaning, data analysis, data visualization, machine learning
@@ -63,7 +64,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Result:** Weather factors, oil prices, and exchange rates affect robusta coffee prices. Built Random Forest, LSTM, SVR machine learning models to predict future price and coffee trends.
 
-##**ARIMA/SARIMA model in stock price forecasting**
+## **ARIMA/SARIMA model in stock price forecasting**
 
 **Code:**
 
@@ -77,7 +78,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Result:** Successfully built the ARIMA model to forecast future stock price trends.
 
-##**Vehicle clustering and routing using the K-Means algorithm**
+## **Vehicle clustering and routing using the K-Means algorithm**
 
 **Code:**
 
