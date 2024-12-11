@@ -23,7 +23,7 @@ This is my repository to showcase skills, share project  and track my progress i
 # Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-##**Clean and analyze FIFA data**
+**## Clean and analyze FIFA data**
 
 **Code:** 
 
