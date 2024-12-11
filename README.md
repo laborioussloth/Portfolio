@@ -10,18 +10,34 @@ This is my repository to showcase skills, share project  and track my progress i
 
 - [About](#about)
 - [Portfolio Project](#portfolio-projects)
-  
+
+  - [Vehicle clustering and routing using the K-Means algorithm](#vehicle-clustering-and-routing-using-the-kmeans-algorithm)
+  - [ARIMA/SARIMA model in stock price forecasting](#arima/sarima-model-in-stock-price-forecasting)
   - [Clean and analyze FIFA data](#clean-and-analyze-fifa-data)
   - [Analyze bicycle sales data](#analyze-bicycle-sales-data)
   - [Machine learning application to predict robusta coffee prices](#machine-learning-application-to-predict-robusta-coffee-prices)
-  - [ARIMA/SARIMA model in stock price forecasting](#arima/sarima-model-in-stock-price-forecasting)
-  - [Vehicle clustering and routing using the K-Means algorithm](#vehicle-clustering-and-routing-using-the-kmeans-algorithm)
+  
+
 
 - [Education](#education)
 - [Contact](#contact)
 
 # Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+## **Vehicle clustering and routing using the K-Means algorithm**
+
+**Code:** https://github.com/laborioussloth/Portfolio/tree/main/Route
+
+**Goal**: Build a route for vehicles
+
+**Description:** Cargo trucks move one by one from a single warehouse to pickup points and back. Each vehicle has a specified maximum capacity and all vehicles have equal capacities. Vehicles only pass through each pick-up point once. The collected data set includes the location of pickup points and vehicle capacity. The project focuses on applying the K-Means algorithm and the greedy algorithm to build a route for each vehicle so that the number of vehicles is minimum and the distance traveled is minimum while still ensuring vehicle capacity.
+
+**Skills:** data cleaning, data analysis, data visualization, machine learning
+
+**Technology:** Python
+
+**Result:** Cluster customer points and determine paths within each cluster
 
 ## **Clean and analyze FIFA data**
 
@@ -77,20 +93,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** python, tableu
 
 **Result:** Successfully built the ARIMA model to forecast future stock price trends.
-
-## **Vehicle clustering and routing using the K-Means algorithm**
-
-**Code:** https://github.com/laborioussloth/Portfolio/tree/main/Route
-
-**Goal**: Build a route for vehicles
-
-**Description:** Cargo trucks move one by one from a single warehouse to pickup points and back. Each vehicle has a specified maximum capacity and all vehicles have equal capacities. Vehicles only pass through each pick-up point once. The collected data set includes the location of pickup points and vehicle capacity. The project focuses on applying the K-Means algorithm and the greedy algorithm to build a route for each vehicle so that the number of vehicles is minimum and the distance traveled is minimum while still ensuring vehicle capacity.
-
-**Skills:** data cleaning, data analysis, data visualization, machine learning
-
-**Technology:** Python
-
-**Result:** Cluster customer points and determine paths within each cluster
 
 # Education
 Hanoi University of Industry - Analyze business data (2021 - 2025)
